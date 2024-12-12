@@ -2,7 +2,7 @@
     background :var(--black);
     color:white;
 }
-.h-cointainer{
+.h-container{
     justify-content :space-between;
     padding-top:1rem;
     padding-bottom:1rem;
